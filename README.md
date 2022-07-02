@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Gomes
+## Olá! Eu sou Lucas Gomes, Dev Mobile Jr.
 <div align="center">
   <a href="https://github.com/lucasgomeszx">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasgomeszx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
