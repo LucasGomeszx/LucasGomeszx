@@ -1,5 +1,5 @@
 
-<h1 align="center">Ola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Lucas Gomes Dev Ios Jr.</h1>
+<h1 align="center">Ola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Lucas Gomes Dev Ios.</h1>
 <div align="center">
   <a href="https://github.com/lucasgomeszx">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasgomeszx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,8 +15,5 @@
  
 <div align="center">
 <a href = "mailto:lgomeszx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gomeszx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lucasgomeszx/lucasgomeszx/blob/output/github-contribution-grid-snake.svg)
-  
+<a href="https://www.linkedin.com/in/gomeszx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
